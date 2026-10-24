@@ -1,1 +1,6 @@
-{"appId":"com.example.eurusdsignal","appName":"EURUSD Signal","webDir":"dist"}
+{
+  "appId": "com.eurusd.signal",
+  "appName": "EUR/USD Signal Pro",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
